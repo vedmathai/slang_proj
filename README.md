@@ -14,6 +14,7 @@ it outputs a parse and classified intent of the sentence.
 Following are the possible inputs for the arguments ```--engine```:
 * spacy
 * magic
+* spacySlang
 * magicSlang
 
 ### Requirements:
@@ -28,12 +29,14 @@ Run sh example.sh to have a quick go at training and to see output from the mode
 ### Usage, Expected outputs and Internals:
 Below we will describe the usage, expected outputs and internals of the three classes:
 
-#### magicSlang:
+#### spacySlang and magicSlang:
 Takes an input only in the format same as that of ```TravelMate.json```.
 
-It reads all the entities and saves the given examples in the model, and a bag of words
-for the intents.
+```magicSlang``` reads all the entities and saves the given examples in the model, and a bag of words for the intents.
 During inference it ranks the annotations based on the mean similarities to the entities collected during training. The similarity is based on **cosine similarity** of the fasttrack embeddings.The intents are found using **bag of Words** similarity between the intent and test sentence.
+
+```spacySlang``` Converts the input format to the format as needed by ```spacy``` and then behaves exactly the same as described in the section below describing the workings of ```spacy``` below.
+
 The output is of the form:
 ```
 {
@@ -42,7 +45,7 @@ The output is of the form:
 'entitylist': ['word1', 'annotation1',
                 'word2', 'annotaion2'...
                 'wordn', 'annotationn']
-}
+}s
 ```
 
 

@@ -3,7 +3,9 @@
 import argparse
 from spacyClass import spacyClass
 from magicClass import magicClass
+from spacySlangClass import spacySlangClass
 from magicSlangClass import magicSlangClass
+
 import time
 
 def main():
@@ -17,6 +19,7 @@ def main():
     classes = {
         'spacy': spacyClass,
         'magic': magicClass,
+        'spacySlang': spacySlangClass,
         'magicSlang': magicSlangClass
     }
     if args.engine not in classes:
