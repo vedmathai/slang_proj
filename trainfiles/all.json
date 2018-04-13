@@ -1,0 +1,7046 @@
+[
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "question", 
+                "Can", 
+                0, 
+                3
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                8, 
+                12
+            ], 
+            [
+                "subject", 
+                "painting", 
+                17, 
+                25
+            ], 
+            [
+                "event_descriptor", 
+                "The Crow: Original Motion Picture Soundtrack", 
+                26, 
+                70
+            ], 
+            [
+                "event_descriptor", 
+                "The Crow: Original Motion Picture Soundtrack", 
+                26, 
+                70
+            ]
+        ], 
+        "sentence": "Can you find the painting The Crow: Original Motion Picture Soundtrack"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "question", 
+                "Where", 
+                0, 
+                5
+            ], 
+            [
+                "main_verb", 
+                "watch", 
+                12, 
+                17
+            ], 
+            [
+                "subject", 
+                "I", 
+                10, 
+                11
+            ], 
+            [
+                "aux_obj", 
+                "television show", 
+                22, 
+                37
+            ], 
+            [
+                "event_descriptor", 
+                "You Make Me Hate Music\n", 
+                38, 
+                6
+            ]
+        ], 
+        "sentence": "Where can I watch the television show You Make Me Hate Music"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "soundtrack", 
+                9, 
+                19
+            ], 
+            [
+                "adjective", 
+                "titled", 
+                20, 
+                26
+            ], 
+            [
+                "aux_obj", 
+                "This Side of Paradise", 
+                27, 
+                48
+            ]
+        ], 
+        "sentence": "find the soundtrack titled This Side of Paradise"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "book", 
+                7, 
+                11
+            ], 
+            [
+                "adjective", 
+                "called", 
+                12, 
+                18
+            ], 
+            [
+                "aux_obj", 
+                "The Mad Magician", 
+                19, 
+                35
+            ]
+        ], 
+        "sentence": "find a book called The Mad Magician"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "television show", 
+                7, 
+                22
+            ], 
+            [
+                "event_descriptor", 
+                "Servidor Apache", 
+                30, 
+                45
+            ]
+        ], 
+        "sentence": "Find a television show called Servidor Apache."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "creative work", 
+                5, 
+                18
+            ], 
+            [
+                "event_descriptor", 
+                "Through the Back Door", 
+                22, 
+                43
+            ]
+        ], 
+        "sentence": "show creative work of Through the Back Door"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "song", 
+                7, 
+                11
+            ], 
+            [
+                "event_descriptor", 
+                "Be Quick or Be Dead", 
+                19, 
+                38
+            ]
+        ], 
+        "sentence": "Find a song called Be Quick or Be Dead."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "watch", 
+                10, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "Maxime", 
+                26, 
+                32
+            ], 
+            [
+                "subject", 
+                "movie", 
+                20, 
+                25
+            ]
+        ], 
+        "sentence": "I want to watch the movie Maxime"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "picture", 
+                9, 
+                16
+            ], 
+            [
+                "aux_obj", 
+                "Louder Than Bombs", 
+                17, 
+                34
+            ]
+        ], 
+        "sentence": "find the picture Louder Than Bombs"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Play", 
+                0, 
+                4
+            ], 
+            [
+                "aux_obj", 
+                "song", 
+                24, 
+                28
+            ], 
+            [
+                "event_descriptor", 
+                "The News Virginian", 
+                5, 
+                23
+            ]
+        ], 
+        "sentence": "Play The News Virginian song"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                8, 
+                12
+            ], 
+            [
+                "subject", 
+                "TV series", 
+                17, 
+                26
+            ], 
+            [
+                "event_descriptor", 
+                "Administrative Behavior", 
+                34, 
+                57
+            ]
+        ], 
+        "sentence": "Need to find the TV series called Administrative Behavior"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "creativity in photograph", 
+                5, 
+                29
+            ], 
+            [
+                "event_descriptor", 
+                "Grace Submerged", 
+                33, 
+                48
+            ]
+        ], 
+        "sentence": "show creativity in photograph of Grace Submerged"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie", 
+                12, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "Operetta for the Theatre Organ", 
+                18, 
+                48
+            ]
+        ], 
+        "sentence": "Show me the movie Operetta for the Theatre Organ"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "see", 
+                12, 
+                15
+            ], 
+            [
+                "subject", 
+                "trailer", 
+                20, 
+                27
+            ], 
+            [
+                "event_descriptor", 
+                "History and Theory", 
+                32, 
+                50
+            ]
+        ], 
+        "sentence": "I'd like to see the trailer for History and Theory"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "television show", 
+                7, 
+                22
+            ], 
+            [
+                "event_descriptor", 
+                "The High Chaparral", 
+                30, 
+                48
+            ]
+        ], 
+        "sentence": "Find a television show called The High Chaparral."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Get", 
+                0, 
+                3
+            ], 
+            [
+                "subject", 
+                "soundtrack", 
+                11, 
+                21
+            ], 
+            [
+                "event_descriptor", 
+                "Sensation Comics", 
+                27, 
+                43
+            ]
+        ], 
+        "sentence": "Get me the soundtrack from Sensation Comics."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "The Great Hydration", 
+                5, 
+                24
+            ], 
+            [
+                "subject", 
+                "TV series", 
+                28, 
+                37
+            ]
+        ], 
+        "sentence": "find The Great Hydration, a TV series"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Play", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "30 Greatest Hits", 
+                5, 
+                21
+            ]
+        ], 
+        "sentence": "Play 30 Greatest Hits"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Family Plot", 
+                5, 
+                16
+            ]
+        ], 
+        "sentence": "Show Family Plot"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "buy", 
+                7, 
+                10
+            ], 
+            [
+                "question", 
+                "How", 
+                0, 
+                3
+            ], 
+            [
+                "subject", 
+                "picture", 
+                11, 
+                18
+            ], 
+            [
+                "event_descriptor", 
+                "Agent Hamilton: But Not If It Concerns Your Daughter", 
+                22, 
+                74
+            ]
+        ], 
+        "sentence": "How to buy picture of Agent Hamilton: But Not If It Concerns Your Daughter"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                12, 
+                14
+            ], 
+            [
+                "event_descriptor", 
+                "Bloodhounds of Broadway", 
+                15, 
+                38
+            ], 
+            [
+                "aux_obj", 
+                "system", 
+                5, 
+                11
+            ], 
+            [
+                "subject", 
+                "game", 
+                43, 
+                47
+            ]
+        ], 
+        "sentence": "What system is Bloodhounds of Broadway the game for?"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "search", 
+                7, 
+                13
+            ], 
+            [
+                "event_descriptor", 
+                "Two Faces of My Girlfriend", 
+                22, 
+                48
+            ], 
+            [
+                "subject", 
+                "saga", 
+                49, 
+                53
+            ]
+        ], 
+        "sentence": "Please search for the Two Faces of My Girlfriend saga."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "soundtrack", 
+                7, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "Fast as You", 
+                25, 
+                36
+            ]
+        ], 
+        "sentence": "find a soundtrack called Fast as You"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "watch", 
+                10, 
+                15
+            ], 
+            [
+                "subject", 
+                "movie", 
+                20, 
+                25
+            ], 
+            [
+                "event_descriptor", 
+                "Godslayer", 
+                26, 
+                35
+            ]
+        ], 
+        "sentence": "I want to watch the movie Godslayer"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Lipstick Vogue", 
+                19, 
+                33
+            ], 
+            [
+                "subject", 
+                "show", 
+                7, 
+                11
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find a show called Lipstick Vogue."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "subject", 
+                "book", 
+                24, 
+                28
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Ghostly Swim 2", 
+                9, 
+                23
+            ]
+        ], 
+        "sentence": "Find the Ghostly Swim 2 book"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "photograph", 
+                9, 
+                19
+            ], 
+            [
+                "event_descriptor", 
+                "Canaich", 
+                20, 
+                27
+            ]
+        ], 
+        "sentence": "find the photograph Canaich"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "The Lord of the Isles", 
+                8, 
+                29
+            ]
+        ], 
+        "sentence": "Show me The Lord of the Isles"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "subject", 
+                "price", 
+                12, 
+                17
+            ], 
+            [
+                "aux_obj", 
+                "album", 
+                26, 
+                31
+            ], 
+            [
+                "event_descriptor", 
+                "Praise the Lord and Pass the Ammunition", 
+                32, 
+                71
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "What is the price for the album Praise the Lord and Pass the Ammunition?"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Sinatra Reprise: The Very Good Years", 
+                38, 
+                74
+            ], 
+            [
+                "subject", 
+                "lowest price", 
+                12, 
+                24
+            ], 
+            [
+                "aux_obj", 
+                "game", 
+                33, 
+                37
+            ], 
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Show me the lowest price for the game Sinatra Reprise: The Very Good Years."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Live Forever: The Rise and Fall of Brit Pop", 
+                11, 
+                54
+            ], 
+            [
+                "subject", 
+                "TV show", 
+                55, 
+                62
+            ], 
+            [
+                "main_verb", 
+                "Search", 
+                0, 
+                6
+            ]
+        ], 
+        "sentence": "Search for Live Forever: The Rise and Fall of Brit Pop TV show"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "question", 
+                "Where", 
+                0, 
+                5
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                12, 
+                16
+            ], 
+            [
+                "subject", 
+                "TV show", 
+                21, 
+                28
+            ], 
+            [
+                "event_descriptor", 
+                "A Step Away", 
+                29, 
+                40
+            ]
+        ], 
+        "sentence": "Where can I find the TV show A Step Away"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "look", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "creative work", 
+                13, 
+                26
+            ], 
+            [
+                "event_descriptor", 
+                "The Testament of Gideon Mack", 
+                27, 
+                55
+            ]
+        ], 
+        "sentence": "look for the creative work The Testament of Gideon Mack"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "video game", 
+                7, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "IBM Program temporary fix", 
+                25, 
+                50
+            ]
+        ], 
+        "sentence": "find a video game called IBM Program temporary fix"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "subject", 
+                "saga", 
+                38, 
+                42
+            ], 
+            [
+                "event_descriptor", 
+                "Short Program", 
+                24, 
+                37
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                15, 
+                19
+            ]
+        ], 
+        "sentence": "Please help me find the Short Program saga."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "So This Is Goodbye", 
+                9, 
+                27
+            ], 
+            [
+                "subject", 
+                "saga", 
+                28, 
+                32
+            ]
+        ], 
+        "sentence": "find the So This Is Goodbye saga"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Five Came Back", 
+                5, 
+                19
+            ]
+        ], 
+        "sentence": "Find Five Came Back for me"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "question", 
+                "Where", 
+                0, 
+                5
+            ], 
+            [
+                "event_descriptor", 
+                "Highs in the Mid-Sixties", 
+                23, 
+                47
+            ], 
+            [
+                "main_verb", 
+                "go", 
+                48, 
+                50
+            ], 
+            [
+                "subject", 
+                "painting", 
+                14, 
+                22
+            ]
+        ], 
+        "sentence": "Where did the painting Highs in the Mid-Sixties go?"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "read", 
+                10, 
+                14
+            ], 
+            [
+                "subject", 
+                "novel", 
+                19, 
+                24
+            ], 
+            [
+                "event_descriptor", 
+                "Love Is in Control", 
+                25, 
+                43
+            ]
+        ], 
+        "sentence": "I want to read the novel Love Is in Control"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Tron: Legacy Reconfigured", 
+                19, 
+                44
+            ], 
+            [
+                "subject", 
+                "book", 
+                7, 
+                11
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "find a book called Tron: Legacy Reconfigured"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "subject", 
+                "painting", 
+                7, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "Smash Crusher", 
+                23, 
+                36
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find a painting called Smash Crusher."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "work", 
+                8, 
+                12
+            ], 
+            [
+                "event_descriptor", 
+                "Truth and Tolerance", 
+                16, 
+                35
+            ]
+        ], 
+        "sentence": "Show me work of Truth and Tolerance"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "The Sentimental Bloke", 
+                5, 
+                26
+            ], 
+            [
+                "subject", 
+                "novel", 
+                27, 
+                32
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find The Sentimental Bloke novel"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "'m looking", 
+                1, 
+                11
+            ], 
+            [
+                "event_descriptor", 
+                "1634: The Ram Rebellion", 
+                16, 
+                39
+            ]
+        ], 
+        "sentence": "I'm looking for 1634: The Ram Rebellion."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Once Upon a Time in the West", 
+                5, 
+                33
+            ]
+        ], 
+        "sentence": "Find Once Upon a Time in the West"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Jono and Ben", 
+                5, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "find Jono and Ben"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Landmark Theatres", 
+                47, 
+                64
+            ], 
+            [
+                "subject", 
+                "time", 
+                5, 
+                9
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "time", 
+                "one minute", 
+                33, 
+                43
+            ], 
+            [
+                "event_descriptor", 
+                "Trouble for Two", 
+                14, 
+                29
+            ]
+        ], 
+        "sentence": "Find time for Trouble for Two in one minute at Landmark Theatres"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Mann Theatres", 
+                45, 
+                58
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "time", 
+                5, 
+                9
+            ], 
+            [
+                "event_descriptor", 
+                "animated movies playing", 
+                18, 
+                41
+            ], 
+            [
+                "main_verb", 
+                "are", 
+                10, 
+                13
+            ]
+        ], 
+        "sentence": "What time are the animated movies playing at Mann Theatres?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie time", 
+                8, 
+                18
+            ], 
+            [
+                "event_descriptor", 
+                "I Am Sorry", 
+                23, 
+                33
+            ], 
+            [
+                "location", 
+                "my movie house", 
+                37, 
+                51
+            ]
+        ], 
+        "sentence": "Show me movie time for I Am Sorry at my movie house"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Star Theatres", 
+                40, 
+                53
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "are", 
+                5, 
+                8
+            ], 
+            [
+                "subject", 
+                "time for movies", 
+                13, 
+                28
+            ]
+        ], 
+        "sentence": "What are the time for movies playing at Star Theatres?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "neighborhood", 
+                60, 
+                72
+            ], 
+            [
+                "main_verb", 
+                "show", 
+                7, 
+                11
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                19, 
+                33
+            ]
+        ], 
+        "sentence": "Please show me the movie schedule for movies playing in the neighborhood."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Malco Theatres", 
+                31, 
+                45
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "are", 
+                5, 
+                8
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                13, 
+                27
+            ]
+        ], 
+        "sentence": "What are the movie schedule at Malco Theatres"
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Extreme Ghostbusters", 
+                12, 
+                32
+            ], 
+            [
+                "subject", 
+                "game", 
+                33, 
+                37
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find me the Extreme Ghostbusters game."
+    }, 
+    {
+        "intent": "SearchCreativeWork", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Chettathi", 
+                23, 
+                32
+            ], 
+            [
+                "subject", 
+                "painting", 
+                7, 
+                15
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find a painting called Chettathi."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "get", 
+                10, 
+                13
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                18, 
+                32
+            ]
+        ], 
+        "sentence": "I want to get the movie schedule"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "time", 
+                "fifteen hours and one minute from now", 
+                61, 
+                98
+            ], 
+            [
+                "event_descriptor", 
+                "Sherlock Holmes and Dr. Watson", 
+                30, 
+                60
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie theatre", 
+                5, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "is playing", 
+                19, 
+                29
+            ]
+        ], 
+        "sentence": "What movie theatre is playing Sherlock Holmes and Dr. Watson fifteen hours and one minute from now"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "location", 
+                "closest movie theatre", 
+                31, 
+                52
+            ], 
+            [
+                "main_verb", 
+                "are", 
+                13, 
+                16
+            ], 
+            [
+                "subject", 
+                "movies", 
+                17, 
+                23
+            ], 
+            [
+                "subject", 
+                "time", 
+                5, 
+                9
+            ]
+        ], 
+        "sentence": "What time is are movies at the closest movie theatre"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie house", 
+                17, 
+                28
+            ], 
+            [
+                "adjective", 
+                "nearest", 
+                9, 
+                16
+            ], 
+            [
+                "event_descriptor", 
+                "'s showing movies", 
+                33, 
+                50
+            ]
+        ], 
+        "sentence": "Find the nearest movie house that's showing movies"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "what", 
+                14, 
+                18
+            ], 
+            [
+                "subject", 
+                "cinema", 
+                19, 
+                25
+            ], 
+            [
+                "main_verb", 
+                "is playing", 
+                26, 
+                36
+            ], 
+            [
+                "event_descriptor", 
+                "Peters baby", 
+                37, 
+                48
+            ]
+        ], 
+        "sentence": "I'm wondering what cinema is playing Peters baby."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "nearest movie house", 
+                31, 
+                50
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "playing", 
+                16, 
+                23
+            ], 
+            [
+                "subject", 
+                "movies", 
+                5, 
+                11
+            ]
+        ], 
+        "sentence": "What movies are playing at the nearest movie house"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "subject", 
+                "movie schedules", 
+                11, 
+                26
+            ], 
+            [
+                "location", 
+                "around here", 
+                38, 
+                49
+            ], 
+            [
+                "main_verb", 
+                "want", 
+                2, 
+                6
+            ]
+        ], 
+        "sentence": "i want the movie schedules for movies around here"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "local movie times", 
+                12, 
+                29
+            ]
+        ], 
+        "sentence": "What is the local movie times"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Wild at Heart", 
+                5, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "find Wild at Heart"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "She", 
+                0, 
+                3
+            ], 
+            [
+                "subject", 
+                "movie times", 
+                11, 
+                22
+            ]
+        ], 
+        "sentence": "She me the movie times"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "animated movies", 
+                5, 
+                20
+            ], 
+            [
+                "main_verb", 
+                "are playing", 
+                21, 
+                32
+            ], 
+            [
+                "location", 
+                "close by", 
+                33, 
+                41
+            ], 
+            [
+                "time", 
+                "four o'clock", 
+                45, 
+                57
+            ]
+        ], 
+        "sentence": "What animated movies are playing close by at four o'clock?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "where", 
+                0, 
+                5
+            ], 
+            [
+                "question", 
+                "where", 
+                0, 
+                5
+            ], 
+            [
+                "event_descriptor", 
+                "Wild America", 
+                9, 
+                21
+            ], 
+            [
+                "main_verb", 
+                "showing", 
+                22, 
+                29
+            ], 
+            [
+                "time", 
+                "zero P.M", 
+                33, 
+                41
+            ]
+        ], 
+        "sentence": "where is Wild America showing at zero P.M."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "When", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "event_descriptor", 
+                "Beyond My Reach", 
+                8, 
+                23
+            ], 
+            [
+                "location", 
+                "the nearest cinema", 
+                37, 
+                55
+            ]
+        ], 
+        "sentence": "When is Beyond My Reach scheduled at the nearest cinema?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                9, 
+                23
+            ], 
+            [
+                "location", 
+                "the area", 
+                37, 
+                45
+            ], 
+            [
+                "event_descriptor", 
+                "films", 
+                28, 
+                33
+            ]
+        ], 
+        "sentence": "Find the movie schedule for films in the area."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "schedule", 
+                9, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "films", 
+                22, 
+                27
+            ], 
+            [
+                "location", 
+                "Cobb Theatres", 
+                31, 
+                44
+            ]
+        ], 
+        "sentence": "Find the schedule for films at Cobb Theatres."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Goodrich Quality Theaters", 
+                24, 
+                49
+            ], 
+            [
+                "subject", 
+                "movie schedules", 
+                5, 
+                20
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "find movie schedules at Goodrich Quality Theaters"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "starting time", 
+                8, 
+                21
+            ], 
+            [
+                "event_descriptor", 
+                "Heavenly Body", 
+                26, 
+                39
+            ]
+        ], 
+        "sentence": "find 16 starting time for Heavenly Body"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "close by", 
+                10, 
+                18
+            ], 
+            [
+                "subject", 
+                "movies", 
+                19, 
+                25
+            ]
+        ], 
+        "sentence": "find some close by movies"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "to see", 
+                9, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "Snowball Express", 
+                16, 
+                32
+            ]
+        ], 
+        "sentence": "I'd like to see Snowball Express"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Anjo House", 
+                27, 
+                37
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "time", 
+                5, 
+                9
+            ], 
+            [
+                "event_descriptor", 
+                "A Ball", 
+                13, 
+                19
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                10, 
+                12
+            ]
+        ], 
+        "sentence": "What time is A Ball at the Anjo House playing"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "AMC Theaters", 
+                5, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "The Red Dance", 
+                21, 
+                34
+            ], 
+            [
+                "main_verb", 
+                "playing", 
+                35, 
+                42
+            ]
+        ], 
+        "sentence": "What AMC Theaters is The Red Dance playing at?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                12, 
+                26
+            ], 
+            [
+                "location", 
+                "Fox Theatres", 
+                34, 
+                46
+            ]
+        ], 
+        "sentence": "What is the movie schedule at the Fox Theatres"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Third Man on the Mountain", 
+                8, 
+                33
+            ], 
+            [
+                "location", 
+                "cinema", 
+                39, 
+                45
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find me Third Man on the Mountain at a cinema"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie times", 
+                5, 
+                16
+            ], 
+            [
+                "location", 
+                "Megaplex Theatres", 
+                20, 
+                37
+            ]
+        ], 
+        "sentence": "show movie times at Megaplex Theatres"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "subject", 
+                "movie times", 
+                20, 
+                31
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                8, 
+                12
+            ], 
+            [
+                "question", 
+                "can", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "can you give me the movie times"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "The Utopian Society", 
+                18, 
+                37
+            ], 
+            [
+                "main_verb", 
+                "like to watch", 
+                4, 
+                17
+            ]
+        ], 
+        "sentence": "I'd like to watch The Utopian Society"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "give", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                12, 
+                26
+            ]
+        ], 
+        "sentence": "give me the movie schedule"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie times", 
+                5, 
+                16
+            ]
+        ], 
+        "sentence": "find movie times"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Check", 
+                0, 
+                5
+            ], 
+            [
+                "subject", 
+                "movie schedules", 
+                6, 
+                21
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                26, 
+                30
+            ], 
+            [
+                "subject", 
+                "animated movies", 
+                37, 
+                52
+            ], 
+            [
+                "main_verb", 
+                "are", 
+                53, 
+                56
+            ], 
+            [
+                "location", 
+                "neighborhood movie halls", 
+                76, 
+                100
+            ], 
+            [
+                "event_descriptor", 
+                "being aired", 
+                57, 
+                68
+            ]
+        ], 
+        "sentence": "Check movie schedules and find which animated movies are being aired in the neighborhood movie halls."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Live Forever: The Rise and Fall of Brit Pop", 
+                3, 
+                46
+            ], 
+            [
+                "time", 
+                "1 minute", 
+                80, 
+                88
+            ], 
+            [
+                "location", 
+                "closest cinema", 
+                62, 
+                76
+            ], 
+            [
+                "main_verb", 
+                "playing", 
+                47, 
+                54
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ]
+        ], 
+        "sentence": "Is Live Forever: The Rise and Fall of Brit Pop playing at the closest cinema in 1 minute"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "The Voice in the Fog", 
+                22, 
+                42
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ], 
+            [
+                "time", 
+                "night", 
+                46, 
+                51
+            ], 
+            [
+                "location", 
+                "closest movie house", 
+                59, 
+                78
+            ], 
+            [
+                "subject", 
+                "schedule", 
+                9, 
+                17
+            ]
+        ], 
+        "sentence": "Find the schedule for The Voice in the Fog at night at the closest movie house."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "event_descriptor", 
+                "animated movies", 
+                50, 
+                65
+            ], 
+            [
+                "subject", 
+                "movie theatre", 
+                20, 
+                33
+            ], 
+            [
+                "adjective", 
+                "closest", 
+                12, 
+                19
+            ]
+        ], 
+        "sentence": "What is the closest movie theatre that is playing animated movies"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "time", 
+                5, 
+                9
+            ], 
+            [
+                "event_descriptor", 
+                "movies playing", 
+                13, 
+                27
+            ], 
+            [
+                "location", 
+                "around here", 
+                28, 
+                39
+            ]
+        ], 
+        "sentence": "What time is movies playing around here"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Santikos Theatres", 
+                32, 
+                49
+            ], 
+            [
+                "subject", 
+                "movie schedules", 
+                12, 
+                27
+            ], 
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Show me the movie schedules for Santikos Theatres."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Show", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie schedule", 
+                12, 
+                26
+            ], 
+            [
+                "location", 
+                "Caribbean Cinemas", 
+                31, 
+                48
+            ]
+        ], 
+        "sentence": "Show me the movie schedule for Caribbean Cinemas"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "Cinemark Theatres", 
+                23, 
+                40
+            ], 
+            [
+                "event_descriptor", 
+                "Terminal Station", 
+                3, 
+                19
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                0, 
+                2
+            ]
+        ], 
+        "sentence": "is Terminal Station at Cinemark Theatres"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "question", 
+                "When", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "event_descriptor", 
+                "Barbary Coast", 
+                8, 
+                21
+            ]
+        ], 
+        "sentence": "When is Barbary Coast playing?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Monterey Bay National Marine Sanctuary", 
+                58, 
+                96
+            ], 
+            [
+                "time", 
+                "five days from now", 
+                36, 
+                54
+            ], 
+            [
+                "time", 
+                "one hundred thirty five days from now", 
+                17, 
+                54
+            ], 
+            [
+                "event_descriptor", 
+                "sunny", 
+                11, 
+                16
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                8, 
+                10
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Will it be sunny one hundred thirty five days from now in Monterey Bay National Marine Sanctuary"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "forecast", 
+                12, 
+                20
+            ], 
+            [
+                "time", 
+                "starting on september 1, 2039", 
+                21, 
+                50
+            ], 
+            [
+                "adjective", 
+                "chillier conditions", 
+                55, 
+                74
+            ], 
+            [
+                "location", 
+                "AK", 
+                78, 
+                80
+            ]
+        ], 
+        "sentence": "what is the forecast starting on september 1, 2039 for chillier conditions in AK"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "weather", 
+                14, 
+                21
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                22, 
+                24
+            ], 
+            [
+                "time", 
+                "this year", 
+                25, 
+                34
+            ], 
+            [
+                "location", 
+                "Horseshoe Lake State Fish", 
+                38, 
+                63
+            ], 
+            [
+                "location", 
+                "Wildlife Area", 
+                68, 
+                81
+            ]
+        ], 
+        "sentence": "What will the weather be this year in Horseshoe Lake State Fish and Wildlife Area?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "subject", 
+                "it", 
+                3, 
+                5
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "event_descriptor", 
+                "supposed to rain", 
+                6, 
+                22
+            ], 
+            [
+                "location", 
+                "nearby my current location", 
+                23, 
+                49
+            ], 
+            [
+                "time", 
+                "0 o'clock", 
+                53, 
+                62
+            ]
+        ], 
+        "sentence": "Is it supposed to rain nearby my current location at 0 o'clock?"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "If the Huns Came to Melbourne", 
+                30, 
+                59
+            ], 
+            [
+                "subject", 
+                "movie theatre", 
+                5, 
+                18
+            ], 
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is showing", 
+                19, 
+                29
+            ]
+        ], 
+        "sentence": "what movie theatre is showing If the Huns Came to Melbourne"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Colic: The Movie", 
+                24, 
+                40
+            ], 
+            [
+                "adjective", 
+                "nearest", 
+                49, 
+                56
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie house", 
+                7, 
+                18
+            ]
+        ], 
+        "sentence": "find a movie house with Colic: The Movie that is nearest"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "subject", 
+                "When the Last Sword is Drawn", 
+                34, 
+                62
+            ], 
+            [
+                "main_verb", 
+                "Check", 
+                0, 
+                5
+            ], 
+            [
+                "subject", 
+                "cinema", 
+                12, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "runs", 
+                29, 
+                33
+            ]
+        ], 
+        "sentence": "Check which cinema currently runs When the Last Sword is Drawn."
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "subject", 
+                "movies", 
+                5, 
+                11
+            ], 
+            [
+                "main_verb", 
+                "find", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "movie schedules", 
+                17, 
+                32
+            ], 
+            [
+                "location", 
+                "neighborhood", 
+                40, 
+                52
+            ]
+        ], 
+        "sentence": "find movies with movie schedules in the neighborhood"
+    }, 
+    {
+        "intent": "SearchScreeningEvent", 
+        "annotations": [
+            [
+                "location", 
+                "AMC Theaters", 
+                44, 
+                56
+            ], 
+            [
+                "subject", 
+                "films", 
+                13, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "playing", 
+                33, 
+                40
+            ]
+        ], 
+        "sentence": "Tell me what films are currently playing at AMC Theaters"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "snowstorm", 
+                8, 
+                17
+            ], 
+            [
+                "location", 
+                "neighboring the Rio Grande Wild", 
+                18, 
+                49
+            ], 
+            [
+                "location", 
+                "Scenic River", 
+                54, 
+                66
+            ], 
+            [
+                "time", 
+                "feb. the second", 
+                70, 
+                85
+            ]
+        ], 
+        "sentence": "Will it snowstorm neighboring the Rio Grande Wild and Scenic River on feb. the second?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Tiplersville", 
+                27, 
+                39
+            ], 
+            [
+                "location", 
+                "South Sudan", 
+                41, 
+                52
+            ], 
+            [
+                "subject", 
+                "wind speed", 
+                13, 
+                23
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                10, 
+                12
+            ]
+        ], 
+        "sentence": "What will be wind speed in Tiplersville, South Sudan?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Haigler", 
+                16, 
+                23
+            ], 
+            [
+                "location", 
+                "Bosnia and Herzegovina", 
+                24, 
+                46
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "event_descriptor", 
+                "snow", 
+                8, 
+                12
+            ]
+        ], 
+        "sentence": "Will it snow in Haigler Bosnia and Herzegovina"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Pearblossom", 
+                34, 
+                45
+            ], 
+            [
+                "question", 
+                "How", 
+                0, 
+                3
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                4, 
+                6
+            ], 
+            [
+                "subject", 
+                "weather", 
+                11, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "going to be", 
+                19, 
+                30
+            ]
+        ], 
+        "sentence": "How is the weather going to be in Pearblossom."
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Sri Lanka", 
+                12, 
+                21
+            ], 
+            [
+                "subject", 
+                "forecast", 
+                22, 
+                30
+            ], 
+            [
+                "event_descriptor", 
+                "snow", 
+                35, 
+                39
+            ], 
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ]
+        ], 
+        "sentence": "what is the Sri Lanka forecast for snow"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "main_verb", 
+                "is", 
+                9, 
+                11
+            ], 
+            [
+                "subject", 
+                "it", 
+                12, 
+                14
+            ], 
+            [
+                "location", 
+                "Princeton Junction", 
+                18, 
+                36
+            ], 
+            [
+                "question", 
+                "how", 
+                0, 
+                3
+            ], 
+            [
+                "event_descriptor", 
+                "cold", 
+                4, 
+                8
+            ]
+        ], 
+        "sentence": "how cold is it in Princeton Junction"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Nationalpark Nevado Tres Cruces", 
+                11, 
+                42
+            ], 
+            [
+                "time", 
+                "mar. 4th, 2020", 
+                46, 
+                60
+            ], 
+            [
+                "subject", 
+                "weather", 
+                0, 
+                7
+            ]
+        ], 
+        "sentence": "weather in Nationalpark Nevado Tres Cruces on mar. 4th, 2020"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "subject", 
+                "weather", 
+                12, 
+                19
+            ], 
+            [
+                "location", 
+                "my current location", 
+                23, 
+                42
+            ], 
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "what is the weather at my current location"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "GA", 
+                21, 
+                23
+            ], 
+            [
+                "question", 
+                "whats", 
+                0, 
+                5
+            ], 
+            [
+                "subject", 
+                "weather", 
+                10, 
+                17
+            ]
+        ], 
+        "sentence": "whats the weather in GA"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "subject", 
+                "it", 
+                3, 
+                5
+            ], 
+            [
+                "main_verb", 
+                "going to be", 
+                6, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "sunny", 
+                18, 
+                23
+            ], 
+            [
+                "time", 
+                "Oct. twenty-seventh, 2031", 
+                27, 
+                52
+            ], 
+            [
+                "location", 
+                "same area of this current place", 
+                64, 
+                95
+            ]
+        ], 
+        "sentence": "Is it going to be sunny on Oct. twenty-seventh, 2031 within the same area of this current place"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "11 years", 
+                43, 
+                51
+            ], 
+            [
+                "event_descriptor", 
+                "colder", 
+                27, 
+                33
+            ], 
+            [
+                "event_descriptor", 
+                "colder", 
+                27, 
+                33
+            ], 
+            [
+                "location", 
+                "GU", 
+                37, 
+                39
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "subject", 
+                "weather", 
+                7, 
+                14
+            ], 
+            [
+                "main_verb", 
+                "going to be", 
+                15, 
+                26
+            ]
+        ], 
+        "sentence": "Is the weather going to be colder in GU in 11 years"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Wrightstown", 
+                40, 
+                51
+            ], 
+            [
+                "time", 
+                "seven years", 
+                55, 
+                66
+            ], 
+            [
+                "event_descriptor", 
+                "freezing", 
+                28, 
+                36
+            ], 
+            [
+                "main_verb", 
+                "'ll be", 
+                21, 
+                27
+            ], 
+            [
+                "subject", 
+                "it", 
+                19, 
+                21
+            ], 
+            [
+                "question", 
+                "Can", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "Can you tell me if it'll be freezing in Wrightstown in seven years ?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Central Cebu Protected Landscape", 
+                28, 
+                60
+            ], 
+            [
+                "event_descriptor", 
+                "warmer", 
+                18, 
+                24
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                15, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "going to be", 
+                6, 
+                17
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "subject", 
+                "it", 
+                3, 
+                5
+            ]
+        ], 
+        "sentence": "Is it going to be warmer in Central Cebu Protected Landscape"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Federated States Of Micronesia", 
+                28, 
+                58
+            ], 
+            [
+                "time", 
+                "00:17 am", 
+                62, 
+                70
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                22, 
+                24
+            ], 
+            [
+                "subject", 
+                "weather", 
+                14, 
+                21
+            ]
+        ], 
+        "sentence": "What will the weather be in Federated States Of Micronesia at 00:17 am"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Cut MA", 
+                21, 
+                27
+            ], 
+            [
+                "time", 
+                "tomorrow", 
+                28, 
+                36
+            ], 
+            [
+                "event_descriptor", 
+                "colder", 
+                11, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                8, 
+                10
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "question", 
+                "will", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "will it be colder in Cut MA tomorrow"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Fiji", 
+                21, 
+                25
+            ], 
+            [
+                "time", 
+                "ten pm\n", 
+                29, 
+                6
+            ], 
+            [
+                "event_descriptor", 
+                "chilly", 
+                11, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                8, 
+                10
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Will it be chilly in Fiji at ten pm"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "dec. 26, 2027", 
+                33, 
+                46
+            ], 
+            [
+                "location", 
+                "here", 
+                25, 
+                29
+            ], 
+            [
+                "event_descriptor", 
+                "blizzard", 
+                16, 
+                24
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                11, 
+                13
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Will there be a blizzard here on dec. 26, 2027?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "snowstorm", 
+                16, 
+                25
+            ], 
+            [
+                "location", 
+                "my current place", 
+                29, 
+                45
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                11, 
+                13
+            ]
+        ], 
+        "sentence": "Will there be a snowstorm at my current place?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "may the thirteenth, 2037", 
+                3, 
+                27
+            ], 
+            [
+                "location", 
+                "Wilderville, Montenegro", 
+                52, 
+                75
+            ], 
+            [
+                "subject", 
+                "it", 
+                38, 
+                40
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                41, 
+                43
+            ], 
+            [
+                "question", 
+                "what", 
+                28, 
+                32
+            ]
+        ], 
+        "sentence": "On may the thirteenth, 2037 what will it be like in Wilderville, Montenegro"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "one minute from now", 
+                32, 
+                51
+            ], 
+            [
+                "location", 
+                "GA", 
+                29, 
+                31
+            ], 
+            [
+                "main_verb", 
+                "'ll be", 
+                13, 
+                19
+            ], 
+            [
+                "subject", 
+                "it", 
+                11, 
+                13
+            ], 
+            [
+                "event_descriptor", 
+                "humid", 
+                20, 
+                25
+            ], 
+            [
+                "question", 
+                "if", 
+                8, 
+                10
+            ]
+        ], 
+        "sentence": "Tell me if it'll be humid in GA one minute from now"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "weather forecast", 
+                14, 
+                30
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                31, 
+                33
+            ], 
+            [
+                "location", 
+                "Mount Victory, Delaware", 
+                37, 
+                60
+            ], 
+            [
+                "time", 
+                "1 second", 
+                64, 
+                72
+            ]
+        ], 
+        "sentence": "What will the weather forecast be in Mount Victory, Delaware in 1 second?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "same area as Sandy Point National Wildlife Refuge", 
+                26, 
+                75
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "warmer", 
+                12, 
+                18
+            ]
+        ], 
+        "sentence": "Will it get warmer in the same area as Sandy Point National Wildlife Refuge"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Papua New Guinea", 
+                36, 
+                52
+            ], 
+            [
+                "event_descriptor", 
+                "overcast", 
+                20, 
+                28
+            ], 
+            [
+                "subject", 
+                "it", 
+                11, 
+                13
+            ], 
+            [
+                "main_verb", 
+                "'ll", 
+                13, 
+                16
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                17, 
+                19
+            ]
+        ], 
+        "sentence": "Tell me if it'll be overcast nearby Papua New Guinea"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "'s", 
+                4, 
+                6
+            ], 
+            [
+                "subject", 
+                "weather", 
+                11, 
+                18
+            ], 
+            [
+                "time", 
+                "next week", 
+                19, 
+                28
+            ], 
+            [
+                "location", 
+                "Somis", 
+                32, 
+                37
+            ]
+        ], 
+        "sentence": "What's the weather next week in Somis"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Hebbronville Venezuela", 
+                28, 
+                50
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "weather", 
+                12, 
+                19
+            ]
+        ], 
+        "sentence": "What is the weather like in Hebbronville Venezuela"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Shelter Island", 
+                15, 
+                29
+            ], 
+            [
+                "event_descriptor", 
+                "foggy", 
+                6, 
+                11
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "subject", 
+                "it", 
+                3, 
+                5
+            ]
+        ], 
+        "sentence": "Is it foggy in Shelter Island"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Nauru", 
+                17, 
+                22
+            ], 
+            [
+                "time", 
+                "6 am", 
+                26, 
+                30
+            ], 
+            [
+                "subject", 
+                "rain", 
+                9, 
+                13
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ]
+        ], 
+        "sentence": "Is there rain in Nauru at 6 am"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "French Polynesia", 
+                28, 
+                44
+            ], 
+            [
+                "location", 
+                "Crouch", 
+                20, 
+                26
+            ], 
+            [
+                "event_descriptor", 
+                "snowy", 
+                11, 
+                16
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "it", 
+                5, 
+                7
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                8, 
+                10
+            ]
+        ], 
+        "sentence": "Will it be snowy in Crouch, French Polynesia?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "question", 
+                "Is", 
+                0, 
+                2
+            ], 
+            [
+                "subject", 
+                "it", 
+                3, 
+                5
+            ], 
+            [
+                "event_descriptor", 
+                "warm", 
+                6, 
+                10
+            ], 
+            [
+                "time", 
+                "seven AM", 
+                14, 
+                22
+            ], 
+            [
+                "location", 
+                "Greenland", 
+                26, 
+                35
+            ]
+        ], 
+        "sentence": "Is it warm at seven AM in Greenland"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Croatia", 
+                45, 
+                52
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "'s", 
+                4, 
+                6
+            ], 
+            [
+                "subject", 
+                "weather", 
+                11, 
+                18
+            ], 
+            [
+                "time", 
+                "right now", 
+                32, 
+                41
+            ]
+        ], 
+        "sentence": "What's the weather looking like right now in Croatia?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "predicted weather", 
+                12, 
+                29
+            ], 
+            [
+                "location", 
+                "Wells in Indiana", 
+                34, 
+                50
+            ]
+        ], 
+        "sentence": "What is the predicted weather for Wells in Indiana?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Kinbrae", 
+                33, 
+                40
+            ], 
+            [
+                "subject", 
+                "weather forecast", 
+                12, 
+                28
+            ], 
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ]
+        ], 
+        "sentence": "what is the weather forecast for Kinbrae"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Fernwood", 
+                23, 
+                31
+            ], 
+            [
+                "location", 
+                "MT", 
+                33, 
+                35
+            ], 
+            [
+                "subject", 
+                "forecast", 
+                10, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "Check", 
+                0, 
+                5
+            ]
+        ], 
+        "sentence": "Check the forecast for Fernwood, MT."
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "19 hours", 
+                46, 
+                54
+            ], 
+            [
+                "location", 
+                "Elderton, Indiana", 
+                25, 
+                42
+            ], 
+            [
+                "subject", 
+                "forecast", 
+                12, 
+                20
+            ]
+        ], 
+        "sentence": "Tell me the forecast for Elderton, Indiana in 19 hours"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ], 
+            [
+                "subject", 
+                "weather", 
+                12, 
+                19
+            ], 
+            [
+                "location", 
+                "Sri Lanka", 
+                23, 
+                32
+            ]
+        ], 
+        "sentence": "what is the weather of Sri Lanka"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "San Martin", 
+                31, 
+                41
+            ], 
+            [
+                "subject", 
+                "weather", 
+                19, 
+                26
+            ], 
+            [
+                "main_verb", 
+                "need to know", 
+                2, 
+                14
+            ]
+        ], 
+        "sentence": "I need to know the weather for San Martin"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "subject", 
+                "blizzard", 
+                16, 
+                24
+            ], 
+            [
+                "location", 
+                "Niobrara Valley Preserve\n", 
+                40, 
+                6
+            ], 
+            [
+                "location", 
+                "neighboring ", 
+                28, 
+                40
+            ], 
+            [
+                "question", 
+                "Will", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                11, 
+                13
+            ]
+        ], 
+        "sentence": "Will there be a blizzard in neighboring Niobrara Valley Preserve"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Mustoe North Carolina\n", 
+                32, 
+                6
+            ], 
+            [
+                "subject", 
+                "forecast", 
+                19, 
+                27
+            ], 
+            [
+                "event_descriptor", 
+                "chilly", 
+                12, 
+                18
+            ], 
+            [
+                "question", 
+                "what", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ]
+        ], 
+        "sentence": "what is the chilly forecast for Mustoe North Carolina"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "same area as LA", 
+                35, 
+                50
+            ], 
+            [
+                "time", 
+                "1 minute", 
+                54, 
+                62
+            ], 
+            [
+                "subject", 
+                "weather forecast", 
+                11, 
+                27
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "'s", 
+                4, 
+                6
+            ]
+        ], 
+        "sentence": "What's the weather forecast in the same area as LA in 1 minute?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "Nov. 25", 
+                49, 
+                56
+            ], 
+            [
+                "location", 
+                "Nationalpark Rila", 
+                28, 
+                45
+            ], 
+            [
+                "subject", 
+                "weather", 
+                14, 
+                21
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                22, 
+                24
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "What will the weather be in Nationalpark Rila on Nov. 25?"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "The Middle East", 
+                5, 
+                20
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                21, 
+                31
+            ], 
+            [
+                "location", 
+                "IN", 
+                35, 
+                37
+            ], 
+            [
+                "time", 
+                "for noon", 
+                38, 
+                46
+            ]
+        ], 
+        "sentence": "book The Middle East restaurant in IN for noon"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "next week", 
+                35, 
+                44
+            ], 
+            [
+                "location", 
+                "here", 
+                30, 
+                34
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                22, 
+                24
+            ], 
+            [
+                "subject", 
+                "weather", 
+                14, 
+                21
+            ]
+        ], 
+        "sentence": "What will the weather be like here next week?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "time", 
+                "next apr.", 
+                25, 
+                34
+            ], 
+            [
+                "location", 
+                "MT", 
+                38, 
+                40
+            ], 
+            [
+                "subject", 
+                "weather", 
+                14, 
+                21
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "be", 
+                22, 
+                24
+            ]
+        ], 
+        "sentence": "What will the weather be next apr. in MT?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Birta", 
+                22, 
+                27
+            ], 
+            [
+                "subject", 
+                "weather", 
+                11, 
+                18
+            ], 
+            [
+                "subject", 
+                "weather", 
+                11, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                4, 
+                6
+            ], 
+            [
+                "question", 
+                "How", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "How is the weather in Birta?"
+    }, 
+    {
+        "intent": "GetWeather", 
+        "annotations": [
+            [
+                "location", 
+                "Beltsville", 
+                25, 
+                35
+            ], 
+            [
+                "subject", 
+                "temperate", 
+                12, 
+                21
+            ], 
+            [
+                "question", 
+                "What", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                5, 
+                7
+            ]
+        ], 
+        "sentence": "What is the temperate in Beltsville"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "have", 
+                2, 
+                6
+            ], 
+            [
+                "event_descriptor", 
+                "party of four", 
+                9, 
+                22
+            ], 
+            [
+                "location", 
+                "Japan", 
+                26, 
+                31
+            ], 
+            [
+                "main_verb", 
+                "need a reservation", 
+                36, 
+                54
+            ], 
+            [
+                "location", 
+                "Rimsky-Korsakoffee House", 
+                58, 
+                82
+            ], 
+            [
+                "time", 
+                "Aug. the 3rd.", 
+                86, 
+                99
+            ]
+        ], 
+        "sentence": "I have a party of four in Japan and need a reservation at Rimsky-Korsakoffee House on Aug. the 3rd."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Madison Park WA", 
+                48, 
+                63
+            ], 
+            [
+                "time", 
+                "1 hour nine minutes and one second", 
+                67, 
+                101
+            ], 
+            [
+                "subject", 
+                "popular tyrolean steakhouse", 
+                17, 
+                44
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                10, 
+                14
+            ]
+        ], 
+        "sentence": "I want to book a popular tyrolean steakhouse in Madison Park WA in 1 hour nine minutes and one second"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "taverna", 
+                7, 
+                14
+            ], 
+            [
+                "event_descriptor", 
+                "serves vichyssoise", 
+                20, 
+                38
+            ], 
+            [
+                "event_descriptor", 
+                "within walking distance", 
+                39, 
+                62
+            ], 
+            [
+                "location", 
+                "OH", 
+                66, 
+                68
+            ]
+        ], 
+        "sentence": "book a taverna that serves vichyssoise within walking distance in OH"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ], 
+            [
+                "event_descriptor", 
+                "for 8", 
+                13, 
+                18
+            ], 
+            [
+                "location", 
+                "somewhere in Bonaire", 
+                19, 
+                39
+            ], 
+            [
+                "time", 
+                "345 days", 
+                43, 
+                51
+            ], 
+            [
+                "main_verb", 
+                "Find", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Find a table for 8 somewhere in Bonaire in 345 days"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "serves chili con carne for a party of 10", 
+                34, 
+                74
+            ], 
+            [
+                "subject", 
+                "taverna", 
+                21, 
+                28
+            ], 
+            [
+                "main_verb", 
+                "'d like to eat", 
+                1, 
+                15
+            ]
+        ], 
+        "sentence": "I'd like to eat at a taverna that serves chili con carne for a party of 10"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "make", 
+                7, 
+                11
+            ], 
+            [
+                "subject", 
+                "restaurant reservation", 
+                14, 
+                36
+            ], 
+            [
+                "location", 
+                "somewhere in Mondovi, Connecticut", 
+                41, 
+                74
+            ]
+        ], 
+        "sentence": "Please make a restaurant reservation for somewhere in Mondovi, Connecticut."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "for 3", 
+                40, 
+                45
+            ], 
+            [
+                "event_descriptor", 
+                "with parking facility", 
+                18, 
+                39
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                7, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Book a restaurant with parking facility for 3."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Halsey St.", 
+                35, 
+                45
+            ], 
+            [
+                "event_descriptor", 
+                "T-Rex", 
+                16, 
+                21
+            ], 
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ], 
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Book a table at T-Rex distant from Halsey St."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Coalton", 
+                42, 
+                49
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                28, 
+                38
+            ], 
+            [
+                "main_verb", 
+                "'d like to eat", 
+                1, 
+                15
+            ]
+        ], 
+        "sentence": "I'd like to eat at the best restaurant in Coalton"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                91, 
+                95
+            ], 
+            [
+                "subject", 
+                "seats", 
+                96, 
+                101
+            ], 
+            [
+                "event_descriptor", 
+                "four", 
+                106, 
+                110
+            ], 
+            [
+                "main_verb", 
+                "go to", 
+                12, 
+                17
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                26, 
+                36
+            ], 
+            [
+                "event_descriptor", 
+                "halal", 
+                20, 
+                25
+            ], 
+            [
+                "time", 
+                "twenty minutes", 
+                40, 
+                54
+            ], 
+            [
+                "location", 
+                "around the District Of Columbia", 
+                55, 
+                86
+            ]
+        ], 
+        "sentence": "I'd like to go to a halal restaurant in twenty minutes around the District Of Columbia and book seats for four"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "highly rated", 
+                26, 
+                38
+            ], 
+            [
+                "time", 
+                "next autumn", 
+                50, 
+                61
+            ], 
+            [
+                "location", 
+                "Emmons, RI\n", 
+                65, 
+                7
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                39, 
+                49
+            ], 
+            [
+                "subject", 
+                "table", 
+                9, 
+                14
+            ], 
+            [
+                "event_descriptor", 
+                "for 1", 
+                15, 
+                20
+            ], 
+            [
+                "main_verb", 
+                "need", 
+                2, 
+                6
+            ]
+        ], 
+        "sentence": "I need a table for 1 at a highly rated restaurant next autumn in Emmons, RI"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "need", 
+                12, 
+                16
+            ], 
+            [
+                "main_verb", 
+                "booked", 
+                25, 
+                31
+            ], 
+            [
+                "subject", 
+                "a table", 
+                17, 
+                24
+            ], 
+            [
+                "event_descriptor", 
+                " highly rated", 
+                36, 
+                49
+            ], 
+            [
+                "event_descriptor", 
+                "restaurant", 
+                50, 
+                60
+            ], 
+            [
+                "location", 
+                "Sandstone", 
+                64, 
+                73
+            ]
+        ], 
+        "sentence": "patty and I need a table booked at a highly rated restaurant in Sandstone."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ], 
+            [
+                "location", 
+                "Haines Borough restaurant", 
+                18, 
+                43
+            ], 
+            [
+                "event_descriptor", 
+                "for nine", 
+                44, 
+                52
+            ], 
+            [
+                "location", 
+                "within walking distance", 
+                61, 
+                84
+            ]
+        ], 
+        "sentence": "Book a table in a Haines Borough restaurant for nine that is within walking distance."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Spaghetti Warehouse for catalina, delores and brandie mendoza", 
+                22, 
+                83
+            ], 
+            [
+                "time", 
+                "12 AM", 
+                87, 
+                92
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                7, 
+                11
+            ], 
+            [
+                "subject", 
+                "room", 
+                14, 
+                18
+            ]
+        ], 
+        "sentence": "please book a room in Spaghetti Warehouse for catalina, delores and brandie mendoza at 12 AM"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ], 
+            [
+                "event_descriptor", 
+                "10 people", 
+                17, 
+                26
+            ], 
+            [
+                "event_descriptor", 
+                "Dunbrody Country House Hotel", 
+                30, 
+                58
+            ], 
+            [
+                "location", 
+                "Strandburg", 
+                62, 
+                72
+            ]
+        ], 
+        "sentence": "Book a table for 10 people at Dunbrody Country House Hotel in Strandburg."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "for four", 
+                19, 
+                27
+            ], 
+            [
+                "subject", 
+                "reservation", 
+                7, 
+                18
+            ], 
+            [
+                "event_descriptor", 
+                "a pub", 
+                31, 
+                36
+            ], 
+            [
+                "location", 
+                "Sugarville", 
+                40, 
+                50
+            ], 
+            [
+                "main_verb", 
+                "Make", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Make a reservation for four at a pub in Sugarville."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "spot", 
+                7, 
+                11
+            ], 
+            [
+                "time", 
+                "1 second", 
+                15, 
+                23
+            ], 
+            [
+                "location", 
+                "neighboring robin's hotel", 
+                32, 
+                57
+            ]
+        ], 
+        "sentence": "book a spot in 1 second that is neighboring robin's hotel"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ], 
+            [
+                "event_descriptor", 
+                "restaurant", 
+                29, 
+                39
+            ], 
+            [
+                "adjective", 
+                "Macedonia", 
+                19, 
+                28
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "book a table for a Macedonia restaurant"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "time", 
+                "midday", 
+                5, 
+                11
+            ], 
+            [
+                "location", 
+                "faraway cuban place", 
+                17, 
+                36
+            ], 
+            [
+                "event_descriptor", 
+                "for five", 
+                37, 
+                45
+            ], 
+            [
+                "location", 
+                "top-rated bakery in Grainola", 
+                51, 
+                79
+            ]
+        ], 
+        "sentence": "book midday at a faraway cuban place for five at a top-rated bakery in Grainola"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "need", 
+                2, 
+                6
+            ], 
+            [
+                "location", 
+                "Heard Island and McDonald Islands", 
+                36, 
+                69
+            ], 
+            [
+                "location", 
+                "pub", 
+                29, 
+                32
+            ], 
+            [
+                "event_descriptor", 
+                "for four", 
+                15, 
+                23
+            ], 
+            [
+                "subject", 
+                "table", 
+                9, 
+                14
+            ]
+        ], 
+        "sentence": "I need a table for four at a pub in Heard Island and McDonald Islands"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Gus Stevens Seafood Restaurant & Buccaneer Lounge", 
+                9, 
+                58
+            ], 
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "for one person", 
+                79, 
+                93
+            ]
+        ], 
+        "sentence": "Book the Gus Stevens Seafood Restaurant & Buccaneer Lounge in Papua New Guinea for one person."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "bakery", 
+                7, 
+                13
+            ], 
+            [
+                "event_descriptor", 
+                "smoking room", 
+                19, 
+                31
+            ], 
+            [
+                "event_descriptor", 
+                "for nine", 
+                32, 
+                40
+            ], 
+            [
+                "location", 
+                "Niger", 
+                44, 
+                49
+            ]
+        ], 
+        "sentence": "Book a bakery with smoking room for nine in Niger."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Boon Brick Store", 
+                7, 
+                23
+            ], 
+            [
+                "event_descriptor", 
+                "my grandkid", 
+                28, 
+                39
+            ], 
+            [
+                "location", 
+                "Evans Mills", 
+                49, 
+                60
+            ]
+        ], 
+        "sentence": "book a Boon Brick Store for my grandkid and I at Evans Mills"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "pub", 
+                7, 
+                10
+            ], 
+            [
+                "event_descriptor", 
+                "fisn'n chips", 
+                16, 
+                28
+            ], 
+            [
+                "location", 
+                "Timberville", 
+                32, 
+                43
+            ]
+        ], 
+        "sentence": "Book a pub with fisn'n chips in Timberville."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                7, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "for ten", 
+                18, 
+                25
+            ], 
+            [
+                "location", 
+                "OK", 
+                29, 
+                31
+            ]
+        ], 
+        "sentence": "Book a restaurant for ten in OK."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "seating", 
+                5, 
+                12
+            ], 
+            [
+                "location", 
+                "restaurant", 
+                18, 
+                28
+            ], 
+            [
+                "location", 
+                "Topton", 
+                32, 
+                38
+            ]
+        ], 
+        "sentence": "Book seating at a restaurant in Topton"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "time", 
+                "two years", 
+                32, 
+                41
+            ], 
+            [
+                "location", 
+                "in town", 
+                16, 
+                23
+            ], 
+            [
+                "subject", 
+                "Restaurant", 
+                0, 
+                10
+            ]
+        ], 
+        "sentence": "Restaurant near in town uses in two years"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "time", 
+                "6/14/2035", 
+                16, 
+                25
+            ], 
+            [
+                "location", 
+                "bakery within walking distance of Equatorial Guinea", 
+                31, 
+                82
+            ], 
+            [
+                "event_descriptor", 
+                "serves paella", 
+                88, 
+                101
+            ], 
+            [
+                "subject", 
+                "bakery", 
+                31, 
+                37
+            ], 
+            [
+                "subject", 
+                "table", 
+                7, 
+                12
+            ]
+        ], 
+        "sentence": "book a table on 6/14/2035 at a bakery within walking distance of Equatorial Guinea that serves paella"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "want to eat", 
+                2, 
+                13
+            ], 
+            [
+                "event_descriptor", 
+                "for two", 
+                14, 
+                21
+            ], 
+            [
+                "subject", 
+                "brasserie", 
+                27, 
+                36
+            ], 
+            [
+                "location", 
+                "Gwynedd Valley TN", 
+                40, 
+                57
+            ], 
+            [
+                "event_descriptor", 
+                "pickled cucumber", 
+                63, 
+                79
+            ], 
+            [
+                "time", 
+                "one second", 
+                83, 
+                93
+            ]
+        ], 
+        "sentence": "I want to eat for two at a brasserie in Gwynedd Valley TN with pickled cucumber in one second"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                18, 
+                28
+            ], 
+            [
+                "event_descriptor", 
+                "for 9 members", 
+                29, 
+                42
+            ], 
+            [
+                "time", 
+                "midnight", 
+                47, 
+                55
+            ], 
+            [
+                "location", 
+                "Fair Bluff RI", 
+                59, 
+                72
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "top-rated", 
+                8, 
+                17
+            ]
+        ], 
+        "sentence": "book me top-rated restaurant for 9 members for midnight at Fair Bluff RI"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Bonita Texas", 
+                67, 
+                79
+            ], 
+            [
+                "event_descriptor", 
+                "highly rated", 
+                51, 
+                63
+            ], 
+            [
+                "event_descriptor", 
+                "scandinavian", 
+                19, 
+                31
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                32, 
+                42
+            ], 
+            [
+                "main_verb", 
+                "want to eat", 
+                2, 
+                13
+            ]
+        ], 
+        "sentence": "I want to eat at a scandinavian restaurant that is highly rated in Bonita Texas"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "want", 
+                2, 
+                6
+            ], 
+            [
+                "subject", 
+                "go to", 
+                10, 
+                15
+            ], 
+            [
+                "location", 
+                "Antigua and Barbuda", 
+                16, 
+                35
+            ], 
+            [
+                "main_verb", 
+                "eat", 
+                40, 
+                43
+            ], 
+            [
+                "event_descriptor", 
+                "for 4", 
+                55, 
+                60
+            ], 
+            [
+                "subject", 
+                "table", 
+                49, 
+                54
+            ]
+        ], 
+        "sentence": "I want to go to Antigua and Barbuda and eat at a table for 4."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "", 
+                2, 
+                2
+            ], 
+            [
+                "time", 
+                "feb. the twenty-sixth, 2026", 
+                8, 
+                35
+            ], 
+            [
+                "location", 
+                "Tracyton", 
+                39, 
+                47
+            ], 
+            [
+                "event_descriptor", 
+                "for two", 
+                48, 
+                55
+            ], 
+            [
+                "location", 
+                "a cafe", 
+                59, 
+                65
+            ]
+        ], 
+        "sentence": "book on feb. the twenty-sixth, 2026 in Tracyton for two at a cafe"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Iran", 
+                19, 
+                23
+            ], 
+            [
+                "main_verb", 
+                "like to eat", 
+                4, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "party of 9", 
+                31, 
+                41
+            ], 
+            [
+                "time", 
+                "sep. the 12th", 
+                45, 
+                58
+            ]
+        ], 
+        "sentence": "I'd like to eat in Iran with a party of 9 on sep. the 12th"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "Ukraine", 
+                7, 
+                14
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "pub", 
+                15, 
+                18
+            ], 
+            [
+                "event_descriptor", 
+                "serves mineiro", 
+                19, 
+                33
+            ]
+        ], 
+        "sentence": "book a Ukraine pub serves mineiro"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "The Oriel in Allison", 
+                5, 
+                25
+            ], 
+            [
+                "event_descriptor", 
+                "party of four", 
+                32, 
+                45
+            ]
+        ], 
+        "sentence": "Book The Oriel in Allison for a party of four."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "need", 
+                2, 
+                6
+            ], 
+            [
+                "subject", 
+                "reservation", 
+                9, 
+                20
+            ], 
+            [
+                "subject", 
+                "7 people", 
+                25, 
+                33
+            ], 
+            [
+                "location", 
+                "bar in Chile", 
+                39, 
+                51
+            ], 
+            [
+                "location", 
+                "bar in Chile that serves bio", 
+                39, 
+                67
+            ]
+        ], 
+        "sentence": "I need a reservation for 7 people at a bar in Chile that serves bio."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "location", 
+                "Mauritania", 
+                21, 
+                31
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                7, 
+                17
+            ], 
+            [
+                "event_descriptor", 
+                "1 person", 
+                36, 
+                44
+            ]
+        ], 
+        "sentence": "Book a restaurant in Mauritania for 1 person."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "nearby Vigus", 
+                36, 
+                48
+            ], 
+            [
+                "subject", 
+                "pizzeria", 
+                27, 
+                35
+            ], 
+            [
+                "subject", 
+                "reservation", 
+                9, 
+                20
+            ], 
+            [
+                "main_verb", 
+                "need", 
+                2, 
+                6
+            ], 
+            [
+                "location", 
+                "pizzeria", 
+                27, 
+                35
+            ]
+        ], 
+        "sentence": "I need a reservation for a pizzeria nearby Vigus"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "table", 
+                10, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "seven people", 
+                20, 
+                32
+            ], 
+            [
+                "location", 
+                "bar with a pool", 
+                38, 
+                53
+            ]
+        ], 
+        "sentence": "Book me a table for seven people at a bar with a pool."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "spot", 
+                7, 
+                11
+            ], 
+            [
+                "location", 
+                "pub", 
+                39, 
+                42
+            ], 
+            [
+                "time", 
+                "elevenses", 
+                46, 
+                55
+            ]
+        ], 
+        "sentence": "Book a spot for kelli, jean and I at a pub at elevenses"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "subject", 
+                "gastropub", 
+                7, 
+                16
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "serves waffle", 
+                17, 
+                30
+            ], 
+            [
+                "event_descriptor", 
+                "for 8", 
+                31, 
+                36
+            ]
+        ], 
+        "sentence": "book a gastropub serves waffle for 8"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "DE", 
+                33, 
+                35
+            ], 
+            [
+                "event_descriptor", 
+                "table for 9", 
+                18, 
+                29
+            ], 
+            [
+                "question", 
+                "Can", 
+                0, 
+                3
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                8, 
+                12
+            ]
+        ], 
+        "sentence": "Can you book me a table for 9 in DE?"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "want to eat", 
+                16, 
+                27
+            ], 
+            [
+                "location", 
+                "somewhere close", 
+                28, 
+                43
+            ], 
+            [
+                "location", 
+                " by Hopatcong", 
+                43, 
+                56
+            ]
+        ], 
+        "sentence": "me and my niece want to eat somewhere close by Hopatcong"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "subject", 
+                "restaurant", 
+                17, 
+                27
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                10, 
+                14
+            ], 
+            [
+                "location", 
+                "neighboring Livonia Av", 
+                28, 
+                50
+            ]
+        ], 
+        "sentence": "I want to book a restaurant neighboring Livonia Av"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                19, 
+                29
+            ], 
+            [
+                "adjective", 
+                "australian", 
+                8, 
+                18
+            ], 
+            [
+                "location", 
+                "Jacksboro", 
+                33, 
+                42
+            ], 
+            [
+                "time", 
+                "three weeks from now", 
+                43, 
+                63
+            ], 
+            [
+                "event_descriptor", 
+                "step father and I", 
+                71, 
+                88
+            ]
+        ], 
+        "sentence": "Book an australian restaurant in Jacksboro three weeks from now for my step father and I."
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "MP", 
+                21, 
+                23
+            ], 
+            [
+                "event_descriptor", 
+                "pigs in blankets", 
+                37, 
+                53
+            ], 
+            [
+                "time", 
+                "3 pm", 
+                27, 
+                31
+            ], 
+            [
+                "main_verb", 
+                "Book", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "restaurant", 
+                7, 
+                17
+            ]
+        ], 
+        "sentence": "Book a restaurant in MP at 3 pm with pigs in blankets"
+    }, 
+    {
+        "intent": "BookRestaurant", 
+        "annotations": [
+            [
+                "location", 
+                "food court in NH", 
+                28, 
+                44
+            ], 
+            [
+                "event_descriptor", 
+                "that serves smelt", 
+                45, 
+                62
+            ], 
+            [
+                "subject", 
+                "table", 
+                17, 
+                22
+            ], 
+            [
+                "main_verb", 
+                "book", 
+                10, 
+                14
+            ]
+        ], 
+        "sentence": "I need to book a table at a food court in NH that serves smelt"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Spanish Harlem Incident", 
+                4, 
+                27
+            ], 
+            [
+                "aux_obj", 
+                "cleaning the house\n", 
+                31, 
+                6
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "Add Spanish Harlem Incident to cleaning the house"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "Pre-Party R&B Jams\n", 
+                30, 
+                6
+            ], 
+            [
+                "event_descriptor", 
+                "clem burke", 
+                4, 
+                14
+            ], 
+            [
+                "main_verb", 
+                "add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "add clem burke in my playlist Pre-Party R&B Jams"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ], 
+            [
+                "event_descriptor", 
+                "Live from Aragon Ballroom", 
+                4, 
+                29
+            ], 
+            [
+                "location", 
+                "Trapeo", 
+                33, 
+                39
+            ]
+        ], 
+        "sentence": "Add Live from Aragon Ballroom to Trapeo"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "main_verb", 
+                "add", 
+                0, 
+                3
+            ], 
+            [
+                "event_descriptor", 
+                "piano bar", 
+                8, 
+                17
+            ], 
+            [
+                "aux_obj", 
+                "Cindy Wilson", 
+                24, 
+                36
+            ]
+        ], 
+        "sentence": "add the piano bar to my Cindy Wilson"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "my night out", 
+                21, 
+                33
+            ], 
+            [
+                "event_descriptor", 
+                "Unite and Win", 
+                4, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "add Unite and Win to my night out"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "Digster Future Hits", 
+                16, 
+                35
+            ], 
+            [
+                "subject", 
+                "track", 
+                4, 
+                9
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "Add track to my Digster Future Hits"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "national treasure book of secrets", 
+                44, 
+                77
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ], 
+            [
+                "subject", 
+                "playlist", 
+                7, 
+                15
+            ], 
+            [
+                "event_descriptor", 
+                "i love my neo soul", 
+                16, 
+                34
+            ]
+        ], 
+        "sentence": "Add to playlist i love my neo soul the name national treasure book of secrets"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "main_verb", 
+                "need", 
+                2, 
+                6
+            ], 
+            [
+                "aux_obj", 
+                "New Indie Mix playlist.", 
+                29, 
+                52
+            ], 
+            [
+                "event_descriptor", 
+                "New Indie Mix playlist", 
+                29, 
+                51
+            ], 
+            [
+                "subject", 
+                "artist", 
+                15, 
+                21
+            ]
+        ], 
+        "sentence": "I need another artist in the New Indie Mix playlist."
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "plylist New Indie Mix\n", 
+                39, 
+                6
+            ], 
+            [
+                "event_descriptor", 
+                "name kids in the street", 
+                8, 
+                31
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "Add the name kids in the street to the plylist New Indie Mix"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "Latin Pop Rising playlist.", 
+                23, 
+                49
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ], 
+            [
+                "event_descriptor", 
+                "Tranquility", 
+                4, 
+                15
+            ]
+        ], 
+        "sentence": "Add Tranquility to the Latin Pop Rising playlist."
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Caleigh Peters", 
+                4, 
+                18
+            ], 
+            [
+                "main_verb", 
+                "add", 
+                0, 
+                3
+            ], 
+            [
+                "aux_obj", 
+                "women of country list", 
+                25, 
+                46
+            ]
+        ], 
+        "sentence": "add Caleigh Peters to my women of country list"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Add d", 
+                0, 
+                5
+            ], 
+            [
+                "event_descriptor", 
+                "d flame", 
+                4, 
+                11
+            ], 
+            [
+                "aux_obj", 
+                "Dcode2016 playlist", 
+                19, 
+                37
+            ]
+        ], 
+        "sentence": "Add d flame to the Dcode2016 playlist."
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ], 
+            [
+                "event_descriptor", 
+                "fire and the wind", 
+                8, 
+                25
+            ]
+        ], 
+        "sentence": "Add the fire and the wind to my Digster Future Hits playlist."
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "my fairy tales", 
+                13, 
+                27
+            ], 
+            [
+                "subject", 
+                "album", 
+                4, 
+                9
+            ], 
+            [
+                "main_verb", 
+                "Add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "Add album to my fairy tales"
+    }, 
+    {
+        "intent": "AddToPlaylist", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "album radar latino", 
+                4, 
+                22
+            ], 
+            [
+                "question", 
+                "add", 
+                0, 
+                3
+            ]
+        ], 
+        "sentence": "add album radar latino"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "5 of 6 points", 
+                12, 
+                25
+            ], 
+            [
+                "event_descriptor", 
+                "Dickson McCunn trilogy\n", 
+                34, 
+                6
+            ], 
+            [
+                "subject", 
+                "rating", 
+                2, 
+                8
+            ], 
+            [
+                "main_verb", 
+                "goes to", 
+                26, 
+                33
+            ]
+        ], 
+        "sentence": "A rating of 5 of 6 points goes to Dickson McCunn trilogy"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Emile, or On Education", 
+                7, 
+                29
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                2, 
+                6
+            ], 
+            [
+                "aux_obj", 
+                "five points", 
+                30, 
+                41
+            ]
+        ], 
+        "sentence": "I give Emile, or On Education five points."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "subject", 
+                "textbook", 
+                40, 
+                48
+            ], 
+            [
+                "main_verb", 
+                "Give", 
+                0, 
+                4
+            ], 
+            [
+                "aux_obj", 
+                "2 out of 6 points", 
+                5, 
+                22
+            ]
+        ], 
+        "sentence": "Give 2 out of 6 points to the following textbook."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ], 
+            [
+                "aux_obj", 
+                "3 of 6 stars", 
+                24, 
+                36
+            ], 
+            [
+                "event_descriptor", 
+                "Beyond the Shadows", 
+                5, 
+                23
+            ]
+        ], 
+        "sentence": "rate Beyond the Shadows 3 of 6 stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "give", 
+                2, 
+                6
+            ], 
+            [
+                "event_descriptor", 
+                "The Penalty", 
+                7, 
+                18
+            ], 
+            [
+                "aux_obj", 
+                "three stars", 
+                19, 
+                30
+            ]
+        ], 
+        "sentence": "I give The Penalty three stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "subject", 
+                "previous textbook", 
+                4, 
+                21
+            ], 
+            [
+                "aux_obj", 
+                "3", 
+                27, 
+                28
+            ], 
+            [
+                "main_verb", 
+                "is", 
+                22, 
+                24
+            ]
+        ], 
+        "sentence": "the previous textbook is a 3"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "2 out of 6", 
+                18, 
+                28
+            ], 
+            [
+                "subject", 
+                "essay", 
+                10, 
+                15
+            ], 
+            [
+                "main_verb", 
+                "Give", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Give this essay a 2 out of 6."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "4", 
+                23, 
+                24
+            ], 
+            [
+                "event_descriptor", 
+                "Licence Renewed", 
+                5, 
+                20
+            ], 
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "rate Licence Renewed a 4"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "4", 
+                18, 
+                19
+            ], 
+            [
+                "subject", 
+                "novel", 
+                10, 
+                15
+            ], 
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "rate this novel a 4"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Tropic of Cancer", 
+                9, 
+                25
+            ], 
+            [
+                "subject", 
+                "book", 
+                26, 
+                30
+            ], 
+            [
+                "aux_obj", 
+                "2 out of 6", 
+                33, 
+                43
+            ], 
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Rate the Tropic of Cancer book a 2 out of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "five points or a rating of 6", 
+                35, 
+                63
+            ], 
+            [
+                "subject", 
+                "textbook", 
+                26, 
+                34
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                8, 
+                12
+            ]
+        ], 
+        "sentence": "I would give this current textbook five points or a rating of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "Lord of the Shadows", 
+                25, 
+                44
+            ], 
+            [
+                "aux_obj", 
+                "four", 
+                58, 
+                62
+            ], 
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "rate in stars as a 6 for Lord of the Shadows which gets a four"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Small Screen, Big Picture", 
+                5, 
+                30
+            ], 
+            [
+                "aux_obj", 
+                "0 out of 6.", 
+                33, 
+                44
+            ]
+        ], 
+        "sentence": "Rate Small Screen, Big Picture a 0 out of 6."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "subject", 
+                "book", 
+                10, 
+                14
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "rating", 
+                17, 
+                23
+            ], 
+            [
+                "aux_obj", 
+                "3", 
+                27, 
+                28
+            ]
+        ], 
+        "sentence": "give this book a rating of 3"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "zero of 6", 
+                16, 
+                25
+            ], 
+            [
+                "aux_obj", 
+                "zero of 6", 
+                16, 
+                25
+            ], 
+            [
+                "subject", 
+                "album", 
+                10, 
+                15
+            ]
+        ], 
+        "sentence": "Rate this album zero of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                " current novel", 
+                8, 
+                22
+            ], 
+            [
+                "aux_obj", 
+                "0 out of 6 points", 
+                25, 
+                42
+            ]
+        ], 
+        "sentence": "Rate the current novel a 0 out of 6 points"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "The Judas Tree", 
+                5, 
+                19
+            ], 
+            [
+                "aux_obj", 
+                "zero", 
+                22, 
+                26
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "give The Judas Tree a zero"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "subject", 
+                "textbook", 
+                21, 
+                29
+            ], 
+            [
+                "main_verb", 
+                "give", 
+                0, 
+                4
+            ], 
+            [
+                "aux_obj", 
+                "0 stars", 
+                5, 
+                12
+            ]
+        ], 
+        "sentence": "give 0 stars to this textbook"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "give", 
+                8, 
+                12
+            ], 
+            [
+                "event_descriptor", 
+                "Sixty Lights chronicle", 
+                13, 
+                35
+            ], 
+            [
+                "aux_obj", 
+                "five", 
+                48, 
+                52
+            ], 
+            [
+                "aux_obj", 
+                " 6", 
+                73, 
+                75
+            ]
+        ], 
+        "sentence": "I would give Sixty Lights chronicle a rating of five and a best rating of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rating", 
+                5, 
+                11
+            ], 
+            [
+                "subject", 
+                "book", 
+                17, 
+                21
+            ], 
+            [
+                "event_descriptor", 
+                "The Billion Dollar Ransom", 
+                29, 
+                54
+            ], 
+            [
+                "aux_obj", 
+                "3 stars", 
+                55, 
+                62
+            ]
+        ], 
+        "sentence": "I am rating this book titled The Billion Dollar Ransom 3 stars."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rate", 
+                10, 
+                14
+            ], 
+            [
+                "subject", 
+                "current series", 
+                20, 
+                34
+            ], 
+            [
+                "aux_obj", 
+                "five", 
+                46, 
+                50
+            ], 
+            [
+                "aux_obj", 
+                "best rating of 6", 
+                57, 
+                73
+            ]
+        ], 
+        "sentence": "I want to rate this current series a value of five and a best rating of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "book", 
+                10, 
+                14
+            ], 
+            [
+                "event_descriptor", 
+                "Cold", 
+                22, 
+                26
+            ], 
+            [
+                "aux_obj", 
+                "two stars", 
+                27, 
+                36
+            ]
+        ], 
+        "sentence": "rate this book titled Cold two stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Give", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "A Human Being Died That Night", 
+                5, 
+                34
+            ], 
+            [
+                "aux_obj", 
+                "3 stars", 
+                35, 
+                42
+            ]
+        ], 
+        "sentence": "Give A Human Being Died That Night 3 stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "event_descriptor", 
+                "The Skystone", 
+                11, 
+                23
+            ], 
+            [
+                "aux_obj", 
+                "three points", 
+                29, 
+                41
+            ], 
+            [
+                "main_verb", 
+                "rating", 
+                4, 
+                10
+            ]
+        ], 
+        "sentence": "I'm rating The Skystone with three points"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "current book", 
+                9, 
+                21
+            ], 
+            [
+                "aux_obj", 
+                "zero of 6", 
+                24, 
+                33
+            ]
+        ], 
+        "sentence": "Rate the current book a zero of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rate", 
+                8, 
+                12
+            ], 
+            [
+                "subject", 
+                "chronicle", 
+                18, 
+                27
+            ], 
+            [
+                "aux_obj", 
+                "4 stars", 
+                28, 
+                35
+            ]
+        ], 
+        "sentence": "I would rate this chronicle 4 stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "1 of 6", 
+                16, 
+                22
+            ], 
+            [
+                "subject", 
+                "novel", 
+                10, 
+                15
+            ], 
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Rate this novel 1 of 6"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "rate", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "current saga", 
+                10, 
+                22
+            ], 
+            [
+                "aux_obj", 
+                "3 out of 6 points", 
+                23, 
+                40
+            ]
+        ], 
+        "sentence": "rate this current saga 3 out of 6 points"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "aux_obj", 
+                "3 out of 6 stars", 
+                25, 
+                41
+            ], 
+            [
+                "subject", 
+                "series", 
+                18, 
+                24
+            ], 
+            [
+                "event_descriptor", 
+                "Wild Boy", 
+                9, 
+                17
+            ], 
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ]
+        ], 
+        "sentence": "Rate the Wild Boy series 3 out of 6 stars"
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "subject", 
+                "album", 
+                10, 
+                15
+            ], 
+            [
+                "aux_obj", 
+                "one", 
+                18, 
+                21
+            ]
+        ], 
+        "sentence": "Rate this album a one."
+    }, 
+    {
+        "intent": "RateBook", 
+        "annotations": [
+            [
+                "main_verb", 
+                "Rate", 
+                0, 
+                4
+            ], 
+            [
+                "event_descriptor", 
+                "Glory Season", 
+                9, 
+                21
+            ], 
+            [
+                "aux_obj", 
+                "three stars", 
+                22, 
+                33
+            ]
+        ], 
+        "sentence": "Rate the Glory Season three stars"
+    }
+]

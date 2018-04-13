@@ -1,0 +1,532 @@
+{
+  "name": "TravelMate",
+  "id": "travel-mate-intents",
+  "imports": [],
+  "types": [
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.cardinal",
+      "samples": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "$EntityType$": "enumEntityType",
+      "name": "std.currency",
+      "values": [
+        {
+          "identity": "INR",
+          "synonyms": [
+            "INR",
+            "Rs",
+            "Rs.",
+            "rupees"
+          ]
+        },
+        {
+          "identity": "USD",
+          "synonyms": [
+            "USD",
+            "dollar",
+            "dollars"
+          ]
+        }
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.date",
+      "samples": [
+        "17-Jul-2017",
+        "17/07/2017",
+        "2017-07-17"
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.duration",
+      "samples": [
+        "five and a half hours",
+        "three seconds",
+        "two minutes"
+      ]
+    },
+    {
+      "$EntityType$": "dbEntityType",
+      "name": "std.geo.city",
+      "entries": [
+        "Agra",
+        "Bangalore",
+        "Bombay",
+        "Delhi",
+        "Chennai"
+      ]
+    },
+    {
+      "$EntityType$": "dbEntityType",
+      "name": "std.geo.state",
+      "entries": [
+        "Andaman and Nicobar Islands",
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chandigarh",
+        "Chhattisgarh",
+        "Dadar and Nagar Haveli",
+        "Daman and Diu",
+        "Delhi",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Lakshadeep",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Orissa",
+        "Pondicherry",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Tripura",
+        "Union Territories",
+        "Uttar Pradesh",
+        "Uttaranchal",
+        "West Bengal"
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.integer",
+      "samples": [
+        "1",
+        "256",
+        "512",
+        "five hundred and twelve",
+        "one",
+        "two hundred and fifty six"
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.name.full",
+      "samples": [
+        "Anil Kumble",
+        "Mahendra Singh Dhoni",
+        "Rahul Dravid",
+        "Sachin Tendulkar",
+        "Virat Kohli"
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.ordinal",
+      "samples": [
+        "1st",
+        "2nd",
+        "first",
+        "second"
+      ]
+    },
+    {
+      "$EntityType$": "simpleEntityType",
+      "name": "std.time",
+      "samples": [
+        "10 o clock",
+        "10:00 a.m",
+        "22:00 hours"
+      ]
+    },
+    {
+      "$EntityType$": "enumEntityType",
+      "name": "modes",
+      "values": [
+        {
+          "identity": "bus",
+          "synonyms": []
+        },
+        {
+          "identity": "car",
+          "synonyms": []
+        },
+        {
+          "identity": "hotel",
+          "synonyms": []
+        },
+        {
+          "identity": "train",
+          "synonyms": []
+        }
+      ]
+    }
+  ],
+  "intents": [
+    {
+      "name": "navigate_to_city",
+      "entities": [
+        {
+          "name": "city_name",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the city name"
+          ]
+        }
+      ],
+      "examples": [
+        [
+          {
+            "text": "show me",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "delhi",
+            "entity": "city_name",
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "take me to",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "delhi",
+            "entity": "city_name",
+            "value": null
+          }
+        ]
+      ],
+      "confirmations": []
+    },
+    {
+      "name": "travel_options",
+      "entities": [
+        {
+          "name": "date",
+          "type": "std.date",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the date"
+          ]
+        },
+        {
+          "name": "destination",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the destination"
+          ]
+        },
+        {
+          "name": "source",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the starting city"
+          ]
+        }
+      ],
+      "examples": [
+        [
+          {
+            "text": "How do I goto",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "mumbai",
+            "entity": "source",
+            "value": null
+          },
+          {
+            "text": "from",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "chennai",
+            "entity": "destination",
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "What options do I have for my travel",
+            "entity": null,
+            "value": null
+          }
+        ]
+      ],
+      "confirmations": []
+    },
+    {
+      "name": "travel_with_mode",
+      "entities": [
+        {
+          "name": "date",
+          "type": "std.date",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the date"
+          ]
+        },
+        {
+          "name": "destination",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the destination"
+          ]
+        },
+        {
+          "name": "mode",
+          "type": "modes",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the mode"
+          ]
+        },
+        {
+          "name": "source",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the source"
+          ]
+        }
+      ],
+      "examples": [
+        [
+          {
+            "text": "Book a",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "bus",
+            "entity": "mode",
+            "value": null
+          },
+          {
+            "text": "ticket from",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "mumbai",
+            "entity": "source",
+            "value": null
+          },
+          {
+            "text": "to",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "chennai",
+            "entity": "destination",
+            "value": null
+          },
+          {
+            "text": "on",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "Feb 21st",
+            "entity": "date",
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "Book a",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "hotel",
+            "entity": "mode",
+            "value": null
+          },
+          {
+            "text": "in",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "mumbai",
+            "entity": "source",
+            "value": null
+          },
+          {
+            "text": "on",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "Feb 21st",
+            "entity": "date",
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "I want to travel via",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "car",
+            "entity": "mode",
+            "value": null
+          },
+          {
+            "text": "from",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "mumbai",
+            "entity": "source",
+            "value": null
+          },
+          {
+            "text": "to",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "chennai",
+            "entity": "destination",
+            "value": null
+          },
+          {
+            "text": "on",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "Feb 21st",
+            "entity": "date",
+            "value": null
+          }
+        ]
+      ],
+      "confirmations": []
+    },
+    {
+      "name": "trip_add",
+      "entities": [
+        {
+          "name": "destination",
+          "type": "std.geo.city",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the starting city"
+          ]
+        },
+        {
+          "name": "start",
+          "type": "std.date",
+          "required": true,
+          "list": false,
+          "default": null,
+          "prompts": [
+            "Please specify the start date"
+          ]
+        }
+      ],
+      "examples": [
+        [
+          {
+            "text": "Add my trip to",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "chennai",
+            "entity": "destination",
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "Add my trip to",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "mumbai",
+            "entity": "destination",
+            "value": null
+          },
+          {
+            "text": "from",
+            "entity": null,
+            "value": null
+          },
+          {
+            "text": "Feb 1st",
+            "entity": "start",
+            "value": null
+          }
+        ]
+      ],
+      "confirmations": []
+    },
+    {
+      "name": "trips_show",
+      "entities": [],
+      "examples": [
+        [
+          {
+            "text": "show my recent trips",
+            "entity": null,
+            "value": null
+          }
+        ],
+        [
+          {
+            "text": "show my trips",
+            "entity": null,
+            "value": null
+          }
+        ]
+      ],
+      "confirmations": []
+    }
+  ]
+}
