@@ -1,6 +1,6 @@
 # Intent and Named Entity Recognition
 The main two files are train.py and infer.py. Train takes input of an engine name, output directory and a training file. For example:
-```python
+```
 python3 train.py --engine engine_name --out model_location train_file
 ```
 it saves a model to the given output file.
