@@ -50,7 +50,7 @@ The output is of the form:
 
 
 
-### spacy and magic:
+#### spacy and magic:
 ```spacy``` and ```magic``` engine take in a json custom annotated on the snips data, namely ```all.json``` available in the trainfiles
 folder. They both will output a json of the format:
 
