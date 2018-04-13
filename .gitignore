@@ -1,2 +1,4 @@
 crawl-300d-2M.vec
 __pycache__
+*.pyc
+exampleoutput.txt

@@ -9,5 +9,9 @@ class EngineBaseClass(ABC):
         return
 
     @abstractmethod
+    def load_model(self, model):
+        return
+        
+    @abstractmethod
     def parse(self, sentence):
         return sentence
