@@ -11,8 +11,7 @@ python3 infer.py --engine engine_name --model model_location 'sample sentence'
 ```
 it outputs a parse and classified intent of the sentence.
 
-Following are the possible inputs for the arguments:
-```--engine```:
+Following are the possible inputs for the arguments ```--engine```:
 * spacy
 * magic
 * magicSlang
@@ -106,3 +105,9 @@ In the both the training datasets the sheer number of sentences that were availa
 However, the intent recognizer left a **lot to be desired**. However, this is not the end of the line since by being clever about **data collection** and reuse of data between tasks a lot of improvement can be made over time.
 
 It may be argued that collecting data from customers has to be as **minimum** as possible however if we look the other way round and instead of asking them to name as many entities and patterns as possible we can easily build a suggestions tool that take their intitial set of sentences, **annotate them** and **label intents** with all our previous learned knowledge and ask them to **verify** some finite number of them and give them an incentive that the more they verify the more accurate the system would be.
+
+### Annexure:
+#### Reading embeddings off of a disk:
+Usually when dealing with embeddings the entire thing has to be loaded into memory which can take a minute for a 5GB file, not to mention the use of such a big chunk of RAM.
+
+Here to mitigate the problem we save only the word and the byte offset of the embeddings of the main file and as required we seek to the location and read the line. We trade off some runtime speed for better intial setup time and high RAM usage.
